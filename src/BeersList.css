@@ -1,0 +1,20 @@
+.beerList {
+    display: flex;
+    padding: 20px;
+    text-decoration: none
+}
+
+.image {
+    width: 128px;
+    height: 128px,
+  }
+
+  .img {
+    margin: 'auto';
+    display: 'block';
+    max-width: '100%';
+    max-height: '100%';
+    width: 70px;
+
+  }
+
